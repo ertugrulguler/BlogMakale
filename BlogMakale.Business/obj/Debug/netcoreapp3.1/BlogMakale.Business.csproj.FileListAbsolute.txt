@@ -1,0 +1,16 @@
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Business\bin\Debug\netcoreapp3.1\BlogMakale.Business.deps.json
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Business\bin\Debug\netcoreapp3.1\BlogMakale.Business.dll
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Business\bin\Debug\netcoreapp3.1\BlogMakale.Business.pdb
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Business\bin\Debug\netcoreapp3.1\BlogMakale.Core.dll
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Business\bin\Debug\netcoreapp3.1\BlogMakale.DataAccess.dll
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Business\bin\Debug\netcoreapp3.1\BlogMakale.Entities.dll
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Business\bin\Debug\netcoreapp3.1\BlogMakale.DataAccess.pdb
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Business\bin\Debug\netcoreapp3.1\BlogMakale.Entities.pdb
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Business\bin\Debug\netcoreapp3.1\BlogMakale.Core.pdb
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Business\obj\Debug\netcoreapp3.1\BlogMakale.Business.csprojAssemblyReference.cache
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Business\obj\Debug\netcoreapp3.1\BlogMakale.Business.AssemblyInfoInputs.cache
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Business\obj\Debug\netcoreapp3.1\BlogMakale.Business.AssemblyInfo.cs
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Business\obj\Debug\netcoreapp3.1\BlogMakale.Business.csproj.CoreCompileInputs.cache
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Business\obj\Debug\netcoreapp3.1\BlogMakale.Business.csproj.CopyComplete
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Business\obj\Debug\netcoreapp3.1\BlogMakale.Business.dll
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Business\obj\Debug\netcoreapp3.1\BlogMakale.Business.pdb

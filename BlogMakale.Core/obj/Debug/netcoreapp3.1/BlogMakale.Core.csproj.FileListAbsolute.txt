@@ -3,3 +3,7 @@ C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Core\bin\Debug\netcoreapp3.1\B
 C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Core\obj\Debug\netcoreapp3.1\BlogMakale.Core.csprojAssemblyReference.cache
 C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Core\obj\Debug\netcoreapp3.1\BlogMakale.Core.AssemblyInfoInputs.cache
 C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Core\obj\Debug\netcoreapp3.1\BlogMakale.Core.AssemblyInfo.cs
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Core\bin\Debug\netcoreapp3.1\BlogMakale.Core.pdb
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Core\obj\Debug\netcoreapp3.1\BlogMakale.Core.csproj.CoreCompileInputs.cache
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Core\obj\Debug\netcoreapp3.1\BlogMakale.Core.dll
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Core\obj\Debug\netcoreapp3.1\BlogMakale.Core.pdb
