@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BlogMakale.Core\BlogMakale.Core.csproj" />
+    <ProjectReference Include="..\BlogMakale.Entity\BlogMakale.Entities.csproj" />
+  </ItemGroup>
+
 </Project>
