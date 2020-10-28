@@ -13,3 +13,4 @@ C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Business\obj\Debug\netcoreapp3
 C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Business\obj\Debug\netcoreapp3.1\BlogMakale.Business.csproj.CopyComplete
 C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Business\obj\Debug\netcoreapp3.1\BlogMakale.Business.dll
 C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Business\obj\Debug\netcoreapp3.1\BlogMakale.Business.pdb
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.Business\obj\Debug\netcoreapp3.1\BlogMakale.Business.csproj.CoreCompileInputs.cache

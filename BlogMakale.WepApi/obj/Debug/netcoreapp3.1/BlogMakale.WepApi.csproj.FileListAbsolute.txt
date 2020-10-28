@@ -67,3 +67,5 @@ C:\Users\ertug\source\repos\BlogMakale\BlogMakale.WepApi\bin\Debug\netcoreapp3.1
 C:\Users\ertug\source\repos\BlogMakale\BlogMakale.WepApi\bin\Debug\netcoreapp3.1\BlogMakale.Core.pdb
 C:\Users\ertug\source\repos\BlogMakale\BlogMakale.WepApi\bin\Debug\netcoreapp3.1\BlogMakale.Entities.pdb
 C:\Users\ertug\source\repos\BlogMakale\BlogMakale.WepApi\obj\Debug\netcoreapp3.1\BlogMakale.WepApi.csproj.CopyComplete
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.WepApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.WepApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
