@@ -3,7 +3,49 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogMakale.Entities", "BlogMakale.Entity\BlogMakale.Entities.csproj", "{DF277312-90BD-48DF-808D-DE4FABA7A0BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogMakale.DataAccess", "BlogMakale.DataAccess\BlogMakale.DataAccess.csproj", "{EC9F346F-CAC9-480C-85E9-95095D51E761}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogMakale.Core", "BlogMakale.Core\BlogMakale.Core.csproj", "{1E675A79-FDE9-4B6F-BDB4-6CBD2428575B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogMakale.Business", "BlogMakale.Business\BlogMakale.Business.csproj", "{5EAA33D0-B38F-476E-B896-01D5B9EA5381}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogMakale.WebUI", "BlogMakale.WebUI\BlogMakale.WebUI.csproj", "{86DD970C-9CD5-49A6-B7A7-3E20315ED1A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogMakale.WepApi", "BlogMakale.WepApi\BlogMakale.WepApi.csproj", "{11BA88E4-BFA9-448E-AB36-6D4330A95079}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF277312-90BD-48DF-808D-DE4FABA7A0BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF277312-90BD-48DF-808D-DE4FABA7A0BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF277312-90BD-48DF-808D-DE4FABA7A0BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF277312-90BD-48DF-808D-DE4FABA7A0BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC9F346F-CAC9-480C-85E9-95095D51E761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC9F346F-CAC9-480C-85E9-95095D51E761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC9F346F-CAC9-480C-85E9-95095D51E761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC9F346F-CAC9-480C-85E9-95095D51E761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E675A79-FDE9-4B6F-BDB4-6CBD2428575B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E675A79-FDE9-4B6F-BDB4-6CBD2428575B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E675A79-FDE9-4B6F-BDB4-6CBD2428575B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E675A79-FDE9-4B6F-BDB4-6CBD2428575B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EAA33D0-B38F-476E-B896-01D5B9EA5381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EAA33D0-B38F-476E-B896-01D5B9EA5381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EAA33D0-B38F-476E-B896-01D5B9EA5381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EAA33D0-B38F-476E-B896-01D5B9EA5381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86DD970C-9CD5-49A6-B7A7-3E20315ED1A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86DD970C-9CD5-49A6-B7A7-3E20315ED1A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86DD970C-9CD5-49A6-B7A7-3E20315ED1A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86DD970C-9CD5-49A6-B7A7-3E20315ED1A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11BA88E4-BFA9-448E-AB36-6D4330A95079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11BA88E4-BFA9-448E-AB36-6D4330A95079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11BA88E4-BFA9-448E-AB36-6D4330A95079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11BA88E4-BFA9-448E-AB36-6D4330A95079}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
