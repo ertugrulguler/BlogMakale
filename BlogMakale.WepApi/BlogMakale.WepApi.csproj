@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\BlogMakale.Business\BlogMakale.Business.csproj" />
     <ProjectReference Include="..\BlogMakale.DataAccess\BlogMakale.DataAccess.csproj" />
   </ItemGroup>
 

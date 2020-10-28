@@ -2,6 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using BlogMakale.Business.Abstract;
+using BlogMakale.Business.Concrete.Managers;
+using BlogMakale.DataAccess.Abstract;
+using BlogMakale.DataAccess.Concrete.EntityFramework;
 using BlogMakale.DataAccess.DatabaseInitializer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -25,6 +29,8 @@ namespace BlogMakale.WepApi
 
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddScoped<IArticleDal, EfArticleDal>();
+            services.AddScoped<IArticleService, ArticleManager>();
             services.AddControllers();
         }
 

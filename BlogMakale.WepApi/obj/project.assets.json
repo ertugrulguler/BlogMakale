@@ -1477,6 +1477,20 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "BlogMakale.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "BlogMakale.DataAccess": "1.0.0",
+          "BlogMakale.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BlogMakale.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlogMakale.Business.dll": {}
+        }
+      },
       "BlogMakale.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -5708,6 +5722,11 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "BlogMakale.Business/1.0.0": {
+      "type": "project",
+      "path": "../BlogMakale.Business/BlogMakale.Business.csproj",
+      "msbuildProject": "../BlogMakale.Business/BlogMakale.Business.csproj"
+    },
     "BlogMakale.Core/1.0.0": {
       "type": "project",
       "path": "../BlogMakale.Core/BlogMakale.Core.csproj",
@@ -5726,6 +5745,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "BlogMakale.Business >= 1.0.0",
       "BlogMakale.DataAccess >= 1.0.0"
     ]
   },
@@ -5755,6 +5775,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+            "C:\\Users\\ertug\\source\\repos\\BlogMakale\\BlogMakale.Business\\BlogMakale.Business.csproj": {
+              "projectPath": "C:\\Users\\ertug\\source\\repos\\BlogMakale\\BlogMakale.Business\\BlogMakale.Business.csproj"
+            },
             "C:\\Users\\ertug\\source\\repos\\BlogMakale\\BlogMakale.DataAccess\\BlogMakale.DataAccess.csproj": {
               "projectPath": "C:\\Users\\ertug\\source\\repos\\BlogMakale\\BlogMakale.DataAccess\\BlogMakale.DataAccess.csproj"
             }
