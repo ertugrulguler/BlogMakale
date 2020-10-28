@@ -1,0 +1,5 @@
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.DataAccess\bin\Debug\netcoreapp3.1\BlogMakale.Core.dll
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.DataAccess\bin\Debug\netcoreapp3.1\BlogMakale.Entities.dll
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.DataAccess\obj\Debug\netcoreapp3.1\BlogMakale.DataAccess.csprojAssemblyReference.cache
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.DataAccess\obj\Debug\netcoreapp3.1\BlogMakale.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.DataAccess\obj\Debug\netcoreapp3.1\BlogMakale.DataAccess.AssemblyInfo.cs
