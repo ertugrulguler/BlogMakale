@@ -15,6 +15,14 @@
           "BlogMakale.Business.dll": {}
         }
       },
+      "FakeData/1.0.0": {
+        "runtime": {
+          "lib/FakeData.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
         "runtime": {
           "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll": {
@@ -1027,6 +1035,7 @@
         "dependencies": {
           "BlogMakale.Core": "1.0.0",
           "BlogMakale.Entities": "1.0.0",
+          "FakeData": "1.0.0",
           "Microsoft.EntityFrameworkCore": "3.1.9",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.9"
         },
@@ -1049,6 +1058,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "FakeData/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hHp5a569gbVo7Fg/whOeDSFExhaB/cidqDTUTFxQDphsMeQhuS0AEyxfg1WunJz5W4ZOPdwEqhQJqEfUCnl9Ow==",
+      "path": "fakedata/1.0.0",
+      "hashPath": "fakedata.1.0.0.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
       "type": "package",

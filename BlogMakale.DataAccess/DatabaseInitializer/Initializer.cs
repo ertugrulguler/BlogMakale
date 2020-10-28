@@ -31,7 +31,8 @@ namespace BlogMakale.DataAccess.DatabaseInitializer
                         };
                         articleList.Add(article);
                     }
-                        context.SaveChanges();
+                    context.Articles.AddRange(articleList);
+                    context.SaveChanges();
                 }
             }
         }
@@ -58,7 +59,10 @@ namespace BlogMakale.DataAccess.DatabaseInitializer
                 };
                 list.Add(comment);
                 if (context.Comments.Count() == 0)
+                {
                     context.AddRange(list);
+                    context.SaveChanges();
+                }
             }
             return list;
         }
@@ -71,7 +75,10 @@ namespace BlogMakale.DataAccess.DatabaseInitializer
                 Username = FakeData.NameData.GetFirstName() + "." + FakeData.NameData.GetSurname()
             };
             if (context.Owners.Count() == 0)
+            {
                 context.Owners.Add(owner);
+                context.SaveChanges();
+            }
 
             return owner;
         }

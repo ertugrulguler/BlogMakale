@@ -14,3 +14,4 @@ C:\Users\ertug\source\repos\BlogMakale\BlogMakale.DataAccess\obj\Debug\netcoreap
 C:\Users\ertug\source\repos\BlogMakale\BlogMakale.DataAccess\obj\Debug\netcoreapp3.1\BlogMakale.DataAccess.dll
 C:\Users\ertug\source\repos\BlogMakale\BlogMakale.DataAccess\obj\Debug\netcoreapp3.1\BlogMakale.DataAccess.pdb
 C:\Users\ertug\source\repos\BlogMakale\BlogMakale.DataAccess\obj\Debug\netcoreapp3.1\BlogMakale.DataAccess.genruntimeconfig.cache
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.DataAccess\obj\Debug\netcoreapp3.1\BlogMakale.DataAccess.csproj.CoreCompileInputs.cache
