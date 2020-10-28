@@ -8,4 +8,19 @@ namespace BlogMakale.Entities.EntityClasses
         public string Content { get; set; }
         public User User { get; set; }
     }
+
+    public class CommentQuery
+    {
+        public string Title { get; set; }
+        public string Content { get; set; }
+        public UserQuery User { get; set; }
+    }
+
+    public class CommentCommand
+    {
+        public int Id { get; set; }
+        public string Title { get; set; }
+        public string Content { get; set; }
+        public UserCommand User { get; set; }
+    }
 }

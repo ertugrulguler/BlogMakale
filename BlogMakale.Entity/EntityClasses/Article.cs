@@ -20,4 +20,23 @@ namespace BlogMakale.Entities.EntityClasses
         public List<Comment> Comments { get; set; }
         public string Tags { get; set; }
     }
+
+
+    public class ArticleQuery
+    {
+        public string Title { get; set; }
+        public string Content { get; set; }
+        public DateTime CreatedDate { get; set; }
+        public DateTime UpdatedDate { get; set; }
+        public OwnerQuery Owner { get; set; }
+        public string Tags { get; set; }
+    }
+
+    public class ArticleCommand
+    {
+        public int Id { get; set; }
+        public string Content { get; set; }
+        public OwnerCommand Owner { get; set; }
+        public string Tags { get; set; }
+    }
 }
