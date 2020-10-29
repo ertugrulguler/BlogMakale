@@ -2,6 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AutoMapper;
+using BlogMakale.Business;
 using BlogMakale.Business.Abstract;
 using BlogMakale.Business.Concrete.Managers;
 using BlogMakale.DataAccess.Abstract;
@@ -29,8 +31,10 @@ namespace BlogMakale.WepApi
 
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddAutoMapper(typeof(AutoMapperConfig));
             services.AddScoped<IArticleDal, EfArticleDal>();
             services.AddScoped<IArticleService, ArticleManager>();
+            services.AddScoped<IMapper, Mapper>();
             services.AddControllers();
         }
 

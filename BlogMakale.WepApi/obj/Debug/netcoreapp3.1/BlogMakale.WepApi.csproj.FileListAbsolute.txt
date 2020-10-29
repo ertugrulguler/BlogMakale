@@ -10,8 +10,6 @@ C:\Users\ertug\source\repos\BlogMakale\BlogMakale.WepApi\bin\Debug\netcoreapp3.1
 C:\Users\ertug\source\repos\BlogMakale\BlogMakale.WepApi\obj\Debug\netcoreapp3.1\BlogMakale.WepApi.csprojAssemblyReference.cache
 C:\Users\ertug\source\repos\BlogMakale\BlogMakale.WepApi\obj\Debug\netcoreapp3.1\BlogMakale.WepApi.AssemblyInfoInputs.cache
 C:\Users\ertug\source\repos\BlogMakale\BlogMakale.WepApi\obj\Debug\netcoreapp3.1\BlogMakale.WepApi.AssemblyInfo.cs
-C:\Users\ertug\source\repos\BlogMakale\BlogMakale.WepApi\obj\Debug\netcoreapp3.1\BlogMakale.WepApi.csproj.CoreCompileInputs.cache
-C:\Users\ertug\source\repos\BlogMakale\BlogMakale.WepApi\obj\Debug\netcoreapp3.1\BlogMakale.WepApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ertug\source\repos\BlogMakale\BlogMakale.WepApi\obj\Debug\netcoreapp3.1\BlogMakale.WepApi.RazorTargetAssemblyInfo.cache
 C:\Users\ertug\source\repos\BlogMakale\BlogMakale.WepApi\obj\Debug\netcoreapp3.1\staticwebassets\BlogMakale.WepApi.StaticWebAssets.Manifest.cache
 C:\Users\ertug\source\repos\BlogMakale\BlogMakale.WepApi\obj\Debug\netcoreapp3.1\staticwebassets\BlogMakale.WepApi.StaticWebAssets.xml
@@ -69,3 +67,5 @@ C:\Users\ertug\source\repos\BlogMakale\BlogMakale.WepApi\bin\Debug\netcoreapp3.1
 C:\Users\ertug\source\repos\BlogMakale\BlogMakale.WepApi\obj\Debug\netcoreapp3.1\BlogMakale.WepApi.csproj.CopyComplete
 C:\Users\ertug\source\repos\BlogMakale\BlogMakale.WepApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\ertug\source\repos\BlogMakale\BlogMakale.WepApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.WepApi\obj\Debug\netcoreapp3.1\BlogMakale.WepApi.csproj.CoreCompileInputs.cache
+C:\Users\ertug\source\repos\BlogMakale\BlogMakale.WepApi\obj\Debug\netcoreapp3.1\BlogMakale.WepApi.MvcApplicationPartsAssemblyInfo.cache

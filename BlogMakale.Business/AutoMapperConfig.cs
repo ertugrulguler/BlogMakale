@@ -6,7 +6,7 @@ using System.Text;
 
 namespace BlogMakale.Business
 {
-    class AutoMapperConfig:Profile
+    public class AutoMapperConfig:Profile
     {
         public AutoMapperConfig()
         {
