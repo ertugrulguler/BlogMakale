@@ -60,3 +60,5 @@ Daha önce çalıştığım şirkette 4 ay civarında kullandım. Bu projenin ö
 
 # Daha geniş vaktim olsaydı eklemek istediklerim
 Yukarıda da belirttiğim üzere projeye bir ön yüz için ufak da olsa bir MVC projesi eklemek isterdim.
+
+
