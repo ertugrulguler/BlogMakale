@@ -105,5 +105,26 @@ namespace BlogMakale.WepApi.Controllers
                 return BadRequest("Bir hata oluştu.");
             }
         }
+
+        [HttpGet("DeleteArticle/{id}")]
+        public IActionResult DeleteArticle(int id)
+        {
+            try
+            {
+                if (id == null)
+                    return BadRequest(new { Statu = false, Message = "Id alanı boş olamaz." });
+
+             
+                var response = _articleService.Delete(id);
+                if (!response)
+                    return BadRequest(new { Statu = false, Message = "Makale silinemedi." });
+
+                return Ok(new { Status = true, Message="İşlem başarıyla gerçekleşti." });
+            }
+            catch (Exception ex)
+            {
+                return BadRequest("Bir hata oluştu.");
+            }
+        }
     }
 }

@@ -12,6 +12,6 @@ namespace BlogMakale.Core.DataAccess.EntityFramework.Abstract
         T Get(Expression<Func<T, bool>> filter);
         T Add(T entity);
         T Update(T entity);
-        void Delete(T entity);
+        int Delete(T entity);
     }
 }

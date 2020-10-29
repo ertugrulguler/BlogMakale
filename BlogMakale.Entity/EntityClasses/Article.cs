@@ -35,6 +35,7 @@ namespace BlogMakale.Entities.EntityClasses
     public class ArticleCommand
     {
         public int Id { get; set; }
+        public string Title { get; set; }
         public string Content { get; set; }
         public OwnerCommand Owner { get; set; }
         public string Tags { get; set; }

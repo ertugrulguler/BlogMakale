@@ -11,5 +11,6 @@ namespace BlogMakale.Business.Abstract
         Article GetById(int id);
         Article Add(Article product);
         Article Update(Article product);
+        bool Delete(int id);
     }
 }

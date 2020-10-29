@@ -53,14 +53,15 @@ namespace BlogMakale.Core.DataAccess.EntityFramework.Concrete
             }
         }
 
-        public void Delete(TEntity entity)
+        public int Delete(TEntity entity)
         {
             using (var context = new TContext())
             {
                 var deletedEntity = context.Entry(entity);
                 deletedEntity.State = EntityState.Deleted;
-                context.SaveChanges();
+                return context.SaveChanges();
             }
         }
+
     }
 }

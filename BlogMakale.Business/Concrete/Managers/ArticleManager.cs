@@ -19,6 +19,15 @@ namespace BlogMakale.Business.Concrete.Managers
             return _articleDal.Add(product);
         }
 
+        public bool Delete(int id)
+        {
+            var article = _articleDal.Get(i => i.Id == id);
+            var result = _articleDal.Delete(article);
+            if (result > 0)
+                return true;
+            return false;
+        }
+
         public List<Article> GetAll()
         {
             return _articleDal.GetList();
